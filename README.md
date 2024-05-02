@@ -1,5 +1,5 @@
 
-# SQL Business Challenge: Data Analysis Exercise
+# LAB | SQL Business Challenge: Data Analysis Exercise
 
 ## Objective
 
