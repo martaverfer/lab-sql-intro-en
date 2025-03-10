@@ -1,5 +1,5 @@
 -- Top Complaint Types
-SELECT complaint_type, COUNT(DISTINCT complaint_type) AS top_5_complaint
+SELECT complaint_type, COUNT(complaint_type) AS top_5_complaint
 FROM nyc_311.nyc_311_service_requests
 GROUP BY complaint_type
 ORDER BY top_5_complaint DESC
